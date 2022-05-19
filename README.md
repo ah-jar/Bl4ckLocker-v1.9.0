@@ -1,5 +1,5 @@
 # Bl4ckLocker
-This ransomware blocks access to the pc by replacing the userinit and encrypts all personal files.
+This ransomware blocks access to the pc by replacing the userinit and encrypts all personal files with AES symmetric encryption algorithm.
 
 OS: Windows10/11 64 bit
 
